@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-emoji-search/static/css/main.f4d1a891.css",
+    "main.js": "/react-emoji-search/static/js/main.dd4f9385.js",
+    "static/media/Poppins-Light.eot": "/react-emoji-search/static/media/Poppins-Light.6facc98098dd5dcfa5f5.eot",
+    "static/media/Poppins-Light.ttf": "/react-emoji-search/static/media/Poppins-Light.970d5ed2dc0b2810bf70.ttf",
+    "static/media/Poppins-Medium.eot": "/react-emoji-search/static/media/Poppins-Medium.cb7e9f5276b4ac8da8ee.eot",
+    "static/media/Poppins-Medium.ttf": "/react-emoji-search/static/media/Poppins-Medium.c8811e16c7cc3159fb7d.ttf",
+    "static/media/Poppins-Light.woff": "/react-emoji-search/static/media/Poppins-Light.6f5b7a1c94cb6419bec4.woff",
+    "static/media/Poppins-Medium.woff": "/react-emoji-search/static/media/Poppins-Medium.7e588a26bdac2428f240.woff",
+    "static/media/Poppins-Light.woff2": "/react-emoji-search/static/media/Poppins-Light.9bec05ab7f83d34eb905.woff2",
+    "static/media/Poppins-Medium.woff2": "/react-emoji-search/static/media/Poppins-Medium.563f976db73ca07d8fc3.woff2",
+    "index.html": "/react-emoji-search/index.html",
+    "main.f4d1a891.css.map": "/react-emoji-search/static/css/main.f4d1a891.css.map",
+    "main.dd4f9385.js.map": "/react-emoji-search/static/js/main.dd4f9385.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4d1a891.css",
+    "static/js/main.dd4f9385.js"
+  ]
+}
